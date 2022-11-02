@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Hello there! Im
-    <a href="www.linkedin.com/in/miguel-duarte-grieder/">Miguel Duarte Grieder</a>
+    <a href="www.linkedin.com/in/miguel-duarte-grieder/">Miguel Duarte Grieder</a>.
   </h1>
   <p>
     I currently work as a Python backend developer and study Systems of Information at UFSC.
