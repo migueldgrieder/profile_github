@@ -5,7 +5,7 @@
     <a href="www.linkedin.com/in/miguel-duarte-grieder/">Miguel Duarte Grieder</a>.
   </h1>
   <p>
-    I currently work as a Python backend developer and study Systems of Information at UFSC.
+    I currently work as a Python backend developer and study Information Systems at UFSC.
     I use this GitHub for side projects, experimenting and learning new technologies.
   </p>
 </div>
